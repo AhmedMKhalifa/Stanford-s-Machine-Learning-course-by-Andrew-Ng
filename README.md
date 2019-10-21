@@ -11,3 +11,9 @@ This course provides a broad introduction to machine learning, datamining, and s
 ## Certificate
 Verified Certificate : https://www.coursera.org/account/accomplishments/certificate/WYVVHRBWE6RE
 
+
+
+
+#The Data Scientist’s Toolbox
+Verified Certificate :https://www.coursera.org/account/accomplishments/certificate/JD9AC3E9CVVP?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate
+
